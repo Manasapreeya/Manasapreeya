@@ -1,5 +1,5 @@
 ### Hi there 👋
-  ## I am Manasa Preeya!
+  #### I am Manasa Preeya!
  * 🌱 I’m currently learning UI/UX Development
  * 👯 I’m looking to collaborate on Web Development Projects
  * 📫 How to reach me: manasapreeya01@gmail.com
